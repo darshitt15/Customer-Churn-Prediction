@@ -343,7 +343,7 @@ Customer-Churn-Prediction/
 
 \## Customer Churn Prediction
 ![Prediction Page ](Screenshots/CustomerPersonalDetails.png)
-(Screenshots/CustomerServicesPage.png)
+![Service Page](Screenshots/CustomerServicesPage.png)
 
 \## Result Page
 ![Result](Screenshots/Result.png)
