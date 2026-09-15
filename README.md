@@ -1,44 +1,28 @@
-\# Customer Churn Prediction System
+\#🚀 Customer Churn Prediction System
 
+\# Predict customer churn using Machine Learning
 
+🌐 **[Live Demo](https://customer-churn-prediction-tpkaq5xdvowlspqyj3fnqz.streamlit.app/)** • 💻 **[GitHub Repository](https://github.com/darshitt15/Customer-Churn-Prediction)**
 
-A Machine Learning-based web application that predicts whether a customer is likely to churn and provides churn probability, risk assessment, risk factors, and recommended retention actions.
+---
 
+\# 📌 Project Overview
 
+Customer Churn Prediction System is a machine learning application that predicts whether a customer is likely to churn based on their service usage, contract details, billing information, and other customer attributes.
 
-\## Project Overview
+The project uses a Random Forest classification model and provides an interactive Streamlit interface for real-time predictions, churn risk assessment, and retention recommendations.
 
+\# ✨ Features
 
+- Customer churn prediction
+- Stay vs. churn probability
+- Risk classification
+- Churn risk factors
+- Retention recommendations
+- Model insights and feature importance
+- Interactive Streamlit interface
 
-Customer churn is an important business problem where customers stop using a company's products or services.
-
-
-
-This project uses the \*\*IBM Telco Customer Churn Dataset\*\* to build a Machine Learning model that analyzes customer information and predicts the likelihood of customer churn.
-
-
-
-The trained model is integrated into a \*\*Streamlit web application\*\*, allowing users to enter customer details and receive an instant churn prediction.
-
-
-
-\## Features
-
-
-
-\- Customer churn prediction
-
-\- Stay and churn probability
-
-\- Customer risk classification
-
-\- Customer summary
-
-\- Churn risk factors
-
-\- Machine Learning model insights
-
-\- Retention recommendations
+---
 
 \- Interactive Streamlit interface
 
@@ -50,7 +34,7 @@ The trained model is integrated into a \*\*Streamlit web application\*\*, allowi
 
 
 
-\## Machine Learning Model
+\# Machine Learning Model
 
 
 
@@ -58,7 +42,7 @@ The project uses a \*\*Random Forest Classifier\*\* to predict customer churn.
 
 
 
-\### Target Variable
+\# Target Variable
 
 
 
@@ -76,7 +60,7 @@ The target contains two classes:
 
 
 
-\## Dataset
+\# Dataset
 
 
 
@@ -166,7 +150,7 @@ The ROC-AUC score indicates that the model has a good ability to distinguish bet
 
 
 
-\## Streamlit Application
+\# Streamlit Application
 
 
 
@@ -198,7 +182,7 @@ The application allows users to:
 
 
 
-\## Risk Assessment
+\# Risk Assessment
 
 
 
@@ -224,7 +208,7 @@ The risk level is used to help understand which customers may require additional
 
 
 
-\## Project Workflow
+\# Project Workflow
 
 
 
@@ -298,7 +282,7 @@ Customer churn prediction can help businesses:
 
 
 
-\## Project Structure
+\# Project Structure
 
 
 
@@ -336,32 +320,32 @@ Customer-Churn-Prediction/
 
 ```
 
-\## Application Preview
+\# Application Preview
 
-\## Home Page
+\# Home Page
 ![Home Page](Screenshots/homepage.png)
 
-\## Customer Churn Prediction
+\# Customer Churn Prediction
 ![Prediction Page ](Screenshots/CustomerPersonalDetails.png)
 ![Service Page](Screenshots/CustomerServicesPage.png)
 
-\## Result Page
+\# Result Page
 ![Result](Screenshots/Result.png)
 
 \# Summary Page
 ![Summary](Screenshots/CustomerSummaryPage.png)
 
 
-\## Model Insights
+\# Model Insights
 ![Model Insights](Screenshots/ModelInsights.png)
 
 
 
-\## How to Run the Project
+\# How to Run the Project
 
 
 
-\### Step 1: Clone the Repository
+\# Step 1: Clone the Repository
 
 
 
@@ -373,7 +357,7 @@ git clone YOUR\_GITHUB\_REPOSITORY\_URL
 
 
 
-\### Step 2: Open the Project Folder
+\# Step 2: Open the Project Folder
 
 
 
@@ -385,7 +369,7 @@ cd Customer-Churn-Prediction
 
 
 
-\### Step 3: Install Dependencies
+\# Step 3: Install Dependencies
 
 
 
@@ -397,7 +381,7 @@ pip install -r requirements.txt
 
 
 
-\### Step 4: Run the Streamlit Application
+\# Step 4: Run the Streamlit Application
 
 
 
@@ -413,7 +397,7 @@ The application will open in your web browser.
 
 
 
-\## Example Prediction
+\# Example Prediction
 
 
 
@@ -453,7 +437,7 @@ The application displays both the predicted class and the probability distributi
 
 
 
-\## Risk Factors
+\# Risk Factors
 
 
 
@@ -479,7 +463,7 @@ These factors are presented to help interpret the prediction and support potenti
 
 
 
-\## Model Insights
+\# Model Insights
 
 
 
@@ -491,7 +475,7 @@ Feature importance helps provide an understanding of which customer characterist
 
 
 
-\## Retention Recommendations
+\# Retention Recommendations
 
 
 
@@ -513,7 +497,7 @@ These recommendations are intended as business-support suggestions and not as au
 
 
 
-\## Future Improvements
+\# Future Improvements
 
 
 
@@ -541,7 +525,7 @@ The project can be further enhanced by adding:
 
 
 
-\## Conclusion
+\# Conclusion
 
 
 
@@ -575,7 +559,7 @@ The project demonstrates practical skills in:
 
 
 
-\## Developed By
+\# Developed By
 
 
 
