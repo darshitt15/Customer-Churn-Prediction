@@ -336,6 +336,25 @@ Customer-Churn-Prediction/
 
 ```
 
+\## Application Preview
+
+\## Home Page
+![Home Page](Screenshots/homepage.png)
+
+\## Customer Churn Prediction
+![Prediction Page ](Screenshots/CustomerPersonalDetails.png)
+(Screenshots/CustomerServicesPage.png)
+
+\## Result Page
+![Result](Screenshots/Result.png)
+
+\# Summary Page
+![Summary](Screenshots/CustomerSummaryPage.png)
+
+
+\## Model Insights
+![Model Insights](Screenshots/ModelInsights.png)
+
 
 
 \## How to Run the Project
